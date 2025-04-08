@@ -1,0 +1,32 @@
+C:
+ https://eu.mouser.com/ProductDetail/Murata-Electronics/GRMMDXR60J105ME05D?qs=%252Bdbji%2FA6pC8gun9kUCdQZQ%3D%3D(3)
+ 1608Metric;CL10A106KQ8NNNC;2;https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL10A106KQ8NNNC/3886696;0,10 €; (1)
+ TMK107BJ104KA-T;2;https://www.digikey.de/de/products/detail/taiyo-yuden/TMK107BJ104KA-T/930597;0,08 €;
+ (5)
+ https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/421/CL10A225KO8NNNC_Spec.pdf;Capacitor_SMD:C_0603_1608Metric;CL10A225KO8NNNC;2;https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL10A225KO8NNNC/3886698;0,08 €;
+ (1) 2.2
+https://www.digikey.com/en/products/detail/kemet/C0603C104J4RACTU/411096 (1) 1micro
+
+MC:
+ STM32G474CET6
+https://www.digikey.de/de/products/detail/stmicroelectronics/STM32G474CET6/10326773
+
+LED:
+"D11;D12";~;~;Diode_SMD:D_0603_1608Metric;VSKY20301608-G4-08;2;https://www.digikey.de/de/products/detail/vishay-general-semiconductor-diodes-division/VSKY20301608-G4-08/6605119;0,48 €;
+
+RES
+(10K)Resistor_SMD:R_0603_1608Metric;RMCF0603JT10K0;2;https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF0603JT10K0/1758104;0,10 €;(5)
+(1K)Resistor_SMD:R_0603_1608Metric;ERJ-2RKF1001X;20;https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-2RKF1001X/79729;0,10 €; (2)
+100k) 1608Metric;ERJ-2RKF1003X;6;https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-2RKF1003X/192081;0,10 €; (1)
+(2k) https://www.digikey.de/de/products/detail/bourns-inc/CR0603-FX-2001ELF/3740910 (2)
+
+connectors
+Conn_01x02;~;Connector_JST:JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical;BM02B-GHS-TBT;2;https://www.digikey.de/en/products/detail/jst-sales-america-inc/BM02B-GHS-TBT/807800?s=N4IgTCBcDaIEIFkAMY4FoDiAJAymgKnPiALoC%2BQA;0,31 €; (4)
+conn_01x06; https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300611121/4846833 (2)
+https://www.digikey.com/en/products/detail/on-shore-technology-inc/302-S201/2794235 (1)
+
+voltage regulator:
+https://www.digikey.com/en/products/detail/texas-instruments/tlv76733qwdrbrq1/15856719
+
+FB1
+https://www.digikey.com/en/products/detail/murata-electronics/BLM18PG121SN1D/584248

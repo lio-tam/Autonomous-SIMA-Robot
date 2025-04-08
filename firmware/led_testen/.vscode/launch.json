@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug (Release, Scons, STM32G474CET6)",
+            "cwd": "${workspaceFolder}",
+            "executable": "build/led_testen/scons-release/led_testen.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "device": "STM32G474CET6",
+            "runToMain": true,
+            "configFiles": [
+                "modm/openocd.cfg",
+                "/Users/liotam/lv-sima-gruppe-b/software/led_testen/openocd.cfg",
+            ],
+        },
+        {
+            "name": "Debug (Debug, Scons, STM32G474CET6)",
+            "cwd": "${workspaceFolder}",
+            "executable": "build/led_testen/scons-debug/led_testen.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "device": "STM32G474CET6",
+            "runToMain": true,
+            "configFiles": [
+                "modm/openocd.cfg",
+                "/Users/liotam/lv-sima-gruppe-b/software/led_testen/openocd.cfg",
+            ],
+        },
+    ]
+}
