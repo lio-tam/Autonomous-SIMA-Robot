@@ -20,4 +20,8 @@ Dieses Projekt entstand im Rahmen meines Studiums an der RWTH Aachen. Ziel war e
 - Zeitmanagement & Teamkoordination
 
 ## Medien
-![PCB-bild](docs/media/driver.png)
+<img src="docs/media/driver.png" alt="driver-bild" width="400"/>
+<img src="docs/media/3dview_driver.png" alt="3D-view" width="400"/>
+<img src="docs/media/pcb_driver.png" alt="pcb-bild" width="400"/>
+<img src="docs/media/schematic_left_driver.png" alt="schematic-bild" width="400"/>
+<img src="docs/media/sima_robot_flashing.png" alt="sima-bild" width="400"/>
