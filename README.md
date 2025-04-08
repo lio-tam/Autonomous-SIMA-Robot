@@ -20,4 +20,4 @@ Dieses Projekt entstand im Rahmen meines Studiums an der RWTH Aachen. Ziel war e
 - Zeitmanagement & Teamkoordination
 
 ## Medien
-![Roboterbild](media/robot.jpg)
+![PCB-bild](docs/media/driver.png)
