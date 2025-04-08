@@ -26,7 +26,8 @@ Dieses Projekt entstand im Rahmen meines Studiums an der RWTH Aachen. Ziel war e
 <img src="docs/media/schematic_left_driver.png" alt="schematic-bild" width="400"/>
 <img src="docs/media/sima_robot_flashing.png" alt="sima-bild" width="400"/>
 
-| 3D-Ansicht | Schaltplan |
-|-----------|------------|
-| <img src="docs/media/3dview_driver.png" width="300"/> | <img src="docs/media/schematic_left_driver.png" width="300"/> |
-| 3D-Rendering der Platine | Linker Teil des Schaltplans |
+<div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:16px 0; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
+  <img src="docs/media/3dview_driver.png" alt="3D-Ansicht" width="100%" style="border-radius:4px;"/>
+  <h3 style="margin-top:12px;">3D-Ansicht der Platine</h3>
+  <p>Das mit KiCad erzeugte 3D-Modell zeigt die Bauteile in ihrer endgültigen Position.</p>
+</div>
