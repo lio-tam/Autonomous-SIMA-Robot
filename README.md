@@ -33,8 +33,8 @@ Dieses Projekt entstand im Rahmen meines Studiums an der RWTH Aachen. Ziel war e
 </div>
 
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:16px 0; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
-  <h3 style="margin-top:12px;">Bestückte Platine</h3>
-  <p>Die fertige Platine nach dem manuellen Löten – bereit für den ersten Funktionstest.</p>
+  <h3 style="margin-top:12px;">Schaltplanansicht der Platine</h3>
+  <p>Sie diente dazu, die Schaltungen zu planen und so anzuordnen, dass die Bauteile kompakt und effizient auf der Platine positioniert werden konnten.</p>
   <img src="docs/media/pcb_driver.png" alt="Bestückte Platine" width="400"/>
 </div>
 
