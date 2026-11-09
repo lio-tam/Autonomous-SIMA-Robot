@@ -1,0 +1,21 @@
+Reference;Value;Datasheet;Footprint;Name;Qty;Link;Preis;Gesamtpreis
+"C1;C2";0u22;https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf;Capacitor_SMD:C_0603_1608Metric;C1608X5R1E224K080AA;2;https://www.digikey.de/de/products/detail/tdk-corporation/C1608X5R1E224K080AA/2093408;0,10 €;
+"C3;C4";2u2;https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/421/CL10A225KO8NNNC_Spec.pdf;Capacitor_SMD:C_0603_1608Metric;CL10A225KO8NNNC;2;https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL10A225KO8NNNC/3886698;0,08 €;
+"C5;C6";1n;~;Capacitor_SMD:C_0603_1608Metric;CGA3E2X7R1H102K080DA;2;https://www.digikey.de/de/products/detail/tdk-corporation/CGA3E2X7R1H102K080DA/22106087;0,10 €;
+"C11;C12";10u;~;Capacitor_SMD:C_0603_1608Metric;CL10A106KQ8NNNC;2;https://www.digikey.de/de/products/detail/samsung-electro-mechanics/CL10A106KQ8NNNC/3886696;0,10 €;
+"C13;C14";0u1;~;Capacitor_SMD:C_0603_1608Metric;TMK107BJ104KA-T;2;https://www.digikey.de/de/products/detail/taiyo-yuden/TMK107BJ104KA-T/930597;0,08 €;
+"D1;D2;D3;D4;D5;D6;D7;D8;D9;D10";LED;~;Diode_SMD:D_0603_1608Metric;150060VS75000;10;https://www.digikey.de/de/products/detail/w%C3%BCrth-elektronik/150060VS75000/4489906;0,13 €;
+"D11;D12";~;~;Diode_SMD:D_0603_1608Metric;VSKY20301608-G4-08;2;https://www.digikey.de/de/products/detail/vishay-general-semiconductor-diodes-division/VSKY20301608-G4-08/6605119;0,48 €;
+J1;Conn_02x10_Odd_Even;~;Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical;FHMD-DA020G1NBON-B;1;https://www.digikey.de/en/products/detail/superior-tech/FHMD-DA020G1NBON-B/16583446;0,69 €;
+"J2;J3";Conn_01x02;~;Connector_JST:JST_GH_BM02B-GHS-TBT_1x02-1MP_P1.25mm_Vertical;BM02B-GHS-TBT;2;https://www.digikey.de/en/products/detail/jst-sales-america-inc/BM02B-GHS-TBT/807800?s=N4IgTCBcDaIEIFkAMY4FoDiAJAymgKnPiALoC%2BQA;0,31 €;
+J102;Conn_01x02;~;custom_footprints:2-Pin_PSK;;1;;;
+"J201;J301";Hall;~;Connector_JST:JST_GH_BM05B-GHS-TBT_1x05-1MP_P1.25mm_Vertical;BM05B-GHS-TBT;2;https://www.digikey.de/en/products/detail/jst-sales-america-inc/BM05B-GHS-TBT/807803?s=N4IgTCBcDaIEIFkAMBWOBaA4gCQMroBU4CQBdAXyA;0,39 €;
+"J202;J302";Motor;~;Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical;B3B-XH-A;2;https://www.digikey.de/en/products/detail/jst-sales-america-inc/B3B-XH-A(LF)(SN)/1651046?gclsrc=aw.ds&&utm_adgroup=Test%20and%20Measurement&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_DE_RLSA_Product_Purchaser&utm_term=&productid=&utm_content=Test%20and%20Measurement&utm_id=go_cmp-245964860_adg-23788296740_ad-702526474742_dsa-2335030161071_dev-c_ext-_prd-_sig-EAIaIQobChMI99iwqJqbigMVaoCDBx0k8x7yEAAYASAAEgL8RPD_BwE&gad_source=1&gclid=EAIaIQobChMI99iwqJqbigMVaoCDBx0k8x7yEAAYASAAEgL8RPD_BwE&gclsrc=aw.ds;0,12 €;
+"Q1;Q2";BSS138;https://www.onsemi.com/pub/Collateral/BSS138-D.PDF;Package_TO_SOT_SMD:SOT-23;BSS138;2;https://www.digikey.de/de/products/detail/onsemi/BSS138/244210;0,26 €;
+"R1;R2";10k;~;Resistor_SMD:R_0603_1608Metric;RMCF0603JT10K0;2;https://www.digikey.de/de/products/detail/stackpole-electronics-inc/RMCF0603JT10K0/1758104;0,10 €;
+"R3;R4;R7;R9;R12;R14";100k;~;Resistor_SMD:R_0603_1608Metric;ERJ-2RKF1003X;6;https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-2RKF1003X/192081;0,10 €;
+"R5;R6;R8;R10;R11;R13";100k;~;Resistor_SMD:R_0603_1608Metric;ERJ-2RKF1003X;6;https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-2RKF1003X/192081;0,10 €;
+"R15;R16;R17;R18;R19;R20;R21;R22;R23;R24;R37;R38;R39;R40;R41;R42;R43;R44;R45;R46";1k;~;Resistor_SMD:R_0603_1608Metric;ERJ-2RKF1001X;20;https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-2RKF1001X/79729;0,10 €;
+"R25;R26";10;~;Resistor_SMD:R_0603_1608Metric;ERJ-2RKF10R0X;2;https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-2RKF10R0X/192072;0,10 €;
+"R33;R34;R35;R36";5.1k;~;Resistor_SMD:R_0603_1608Metric;ERA-2AEB512X;4;https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERA-2AEB512X/1706022;0,17 €;
+"U201;U301";MCT8314ZH;https://www.ti.com/product/MCT8314Z;custom_footprints:WQFN24_RRW_TEX_new;;2;;;

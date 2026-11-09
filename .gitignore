@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# modm / SCons build output
+build/
+.sconsign.dblite
+*.log
+__pycache__/
+
+# Editor settings (contain machine-specific paths)
+.vscode/
+
+# KiCad backups, caches and per-user settings
+*-backups/
+*.bak
+*-bak
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*.lck
+
+# Large vendor PDFs: link to them in the README instead
+*.pdf
