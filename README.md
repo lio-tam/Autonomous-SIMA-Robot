@@ -17,7 +17,6 @@ Each board folder also has an interactive bill of materials (`bom/ibom.html`, op
 
 ## My role
 
-<!-- TODO(Lio): check each bullet and edit it so that it describes exactly what you did. -->
 - Co-designed the **motor-driver board** in KiCad with two teammates. The controller board was designed by other members of Group B.
 - Hand-assembled the boards, including SMD soldering, and replaced faulty components during bring-up.
 - Wrote the **bring-up firmware** in C++ with [modm](https://modm.io): clock tree (170 MHz PLL), GPIO and timer/PWM configuration for both motor channels, and the driver-mode tests.
@@ -48,6 +47,9 @@ The modm library generated for each project is committed in its `modm/` folder, 
 
 ## Gallery
 
+![KiCad walkthrough of the driver board: schematic, layout and 3D view](docs/media/kicad_driver_walkthrough.gif)
+*Driver board in KiCad: schematic, layout and 3D view (screen recording, 2× speed)*
+
 | | |
 |---|---|
 | ![Assembled motor-driver board](docs/media/driver_board_assembled.jpg) | ![Controller board](docs/media/mcu_board.jpg) |
@@ -71,7 +73,7 @@ The modm library generated for each project is committed in its `modm/` folder, 
 
 ## Credits
 
-- Team: Group B, Roboter Club Aachen. <!-- TODO(Lio): add teammates' names here if they agree. -->
+- Team: Group B, Roboter Club Aachen.
 - The driver schematic started from the Roboter Club Aachen driver-IC example template.
 - `firmware/led_blink_test/main.cpp` is based on a Roboter Club Aachen example by Raphael Lehmann (MPL-2.0; the licence header is kept).
 - [modm](https://modm.io) is licensed under MPL-2.0.
